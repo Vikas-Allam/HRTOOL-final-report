@@ -7,7 +7,7 @@ int main(int argc, char *argv[])
     QApplication a(argc, argv);
     MainWindow w;
      w.show();
-     w.setWindowIcon(QIcon(":/files/thumbnail_delta.ico"));
+     w.setWindowIcon(QIcon(":/files/files/logo.ico"));
 
     return a.exec();
 }

@@ -1,12 +1,8 @@
 <RCC>
-    <qresource prefix="/v"/>
-    <qresource prefix="/">
+    <qresource prefix="/files">
         <file>files/thumbnail_Digital Sign.png</file>
-        <file>files/thumbnail_delta.ico</file>
-        <file>files/delta.png</file>
+        <file>files/logo.ico</file>
+        <file>files/delta3.png</file>
+        <file>files/delta2 (1).png</file>
     </qresource>
-    <qresource prefix="/t"/>
-    <qresource prefix="/images"/>
-    <qresource prefix="/files"/>
-    <qresource prefix="/im"/>
 </RCC>
